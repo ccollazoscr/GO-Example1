@@ -1,0 +1,18 @@
+1. Hola mundo
+2. Variables
+3. if - Switch
+4. Leer datos de entrada
+5. Ciclos - FOR
+6. Funciones
+7. Funciones anónimas - clousures
+8. Arreglos - slice
+9. Map - range //Diccionarios
+10. Struct
+11. Struct - Interface
+12. Manejo de archivos
+13. Funciones recursivas - Ejercicio exponencial
+14. Excepciones - Defer - Panic
+15. GoRoutines - Promesas
+16. Channels
+17. Public server http
+18. middlewares
